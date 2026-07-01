@@ -4,6 +4,13 @@ A browser-based implementation of the classic **Simon Says** memory game built u
 
 ---
 
+## 🌐 Live Demo
+
+🔗 **Play the Game:** [Click Here](https://ayush-simon-says-game.netlify.app/)
+
+---
+
+
 ## 📌 Project Overview
 
 This project was built to strengthen my understanding of **JavaScript DOM manipulation**, **event handling**, **game logic**, and **state management** by recreating the classic Simon Says memory game.
