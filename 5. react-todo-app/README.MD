@@ -6,7 +6,7 @@ A simple and interactive **Todo List Application** built using **React**. This p
 
 ## 🌐 Live Demo
 
-🔗 **Live Website:** *()*
+🔗 **Live Website:** *(https://react-todo-app-ui.netlify.app/)*
 
 ---
 
