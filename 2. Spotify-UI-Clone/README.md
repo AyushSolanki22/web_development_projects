@@ -90,7 +90,7 @@ Spotify-UI-Clone/
 Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/AyushSolanki22/web_development_projects
 ```
 
 Navigate to the project folder
