@@ -6,7 +6,7 @@ A simple and interactive **Social Media Application** built using **React**. Thi
 
 ## 🌐 Live Demo
 
-🔗 **Live Website:** *(Coming Soon)*
+🔗 **Live Website:** *(https://react-social-media-ui.netlify.app/)*
 
 ---
 
